@@ -1,0 +1,25 @@
+.app {
+  height: 100%;
+  position: Absolute;
+  width: 100%;
+}
+
+.iframe-window {
+  height: 90%;
+  position: Absolute;
+  left: 0;
+  width: 90%;
+  margin-left: 5px;
+  margin-top: 5px;
+  overflow-y: scroll;
+}
+
+.combobox {
+  width: 80%;
+  margin-left: 10px;
+}
+
+.btn {
+  margin-left: 5px;
+  width: 150px;
+}
